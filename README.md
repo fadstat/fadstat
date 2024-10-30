@@ -13,7 +13,7 @@
         <table>
             <tr>
                 <td rowspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadstat&theme=transparent" alt="Stats"></td>
-                <td rowspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fadstat&theme=transparent&utcOffset=5" alt="Productive Time"></td>
+                <td rowspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fadstat&theme=transparent&utcOffset=3" alt="Productive Time"></td>
             </tr>
         </table>
     </td>
