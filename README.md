@@ -19,6 +19,9 @@
     </td>
     <table>
             <td>
+                <img src="img/telegram.svg" width="32" height="32">
+            </td>
+            <td>
                 <img src="img/python.svg" width="32" height="32">
             </td>
     </table>
